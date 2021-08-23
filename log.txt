@@ -1,0 +1,2 @@
+00000003 2021-Aug-23 09:53:23.309758 0x00000b9c fl::log I Now logging to file  ./log.txt
+00000004 2021-Aug-23 09:53:23.310772 0x00000b9c fl::log I Diagnostic logging destination: file=./log.txt
